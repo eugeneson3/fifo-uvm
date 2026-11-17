@@ -1,0 +1,20 @@
+{
+  "snapshot_date": "2026-11-18",
+  "files": [
+    {
+      "path": "fifo.sv",
+      "source": "2026_09_06_FIFO_UVM/fifo.sv",
+      "sha256": "503944b03a19a522440ae365cdad27d80a8562eaa17fe2b36fd5d1217d1e8f2b"
+    },
+    {
+      "path": "tb_fifo.sv",
+      "source": "2026_09_06_FIFO_UVM/tb_fifo.sv",
+      "sha256": "42ae243593aeea818bfb0bdefb562f2636bccf4e6b4bca1e0244ffe4ab028ddc"
+    },
+    {
+      "path": "xsim.covdb/tb_fifo_sim/xsim.covinfo",
+      "source": "2026_09_06_FIFO_UVM/xsim.covdb/tb_fifo_sim/xsim.covinfo",
+      "sha256": "87b49276e5e6e3f086a6f2a21a0583e9d1d085b86662aec23336bdf05278d5ce"
+    }
+  ]
+}
